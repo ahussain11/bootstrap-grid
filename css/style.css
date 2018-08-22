@@ -1,0 +1,36 @@
+main {
+    background: yellow;
+    padding-top: 3em;
+}
+
+header {
+    background: royalblue;
+}
+
+nav {
+    height: 50px;
+    background: forestgreen;
+}
+
+section {
+    background: red;
+}
+
+aside {
+    background: cyan;
+}
+
+.promo {
+    background: tan;
+}
+
+footer {
+    background: #000;
+    color: aliceblue
+}
+
+.obj {
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 50px;
+}
